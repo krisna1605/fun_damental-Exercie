@@ -1,0 +1,10 @@
+POLYMORPHISM
+Polimorfisme adalah kemampuan suatu objek untuk mengambil berbagai bentuk. Penggunaan polimorfisme yang paling umum di OOP terjadi ketika referensi kelas induk digunakan untuk merujuk ke objek kelas anak.
+Objek Java apa pun yang bisa lulus lebih dari satu tes IS-A dianggap polimorfik. Di Java, semua objek Java bersifat polimorfik karena objek apa pun akan lulus tes IS-A untuk tipenya sendiri dan untuk objek kelas.
+Penting untuk diketahui bahwa satu-satunya cara yang mungkin untuk mengakses suatu objek adalah melalui variabel referensi. Variabel referensi hanya dapat terdiri dari satu jenis. Setelah dideklarasikan, jenis variabel referensi tidak dapat diubah.
+Variabel referensi dapat dipindahkan ke objek lain asalkan tidak dinyatakan final. Jenis variabel referensi akan menentukan metode yang dapat dipanggil pada objek.
+Variabel referensi dapat merujuk ke objek apa pun dari tipe yang dideklarasikan atau subtipe apa pun dari tipe yang dideklarasikan. Variabel referensi dapat dideklarasikan sebagai kelas atau tipe antarmuka.
+
+INHERITANCE
+Pewarisan dapat didefinisikan sebagai proses di mana satu kelas memperoleh properti (metode dan bidang) dari kelas lain. Dengan menggunakan pewarisan informasi dibuat dapat dikelola dalam urutan hirarki.
+Kelas yang mewarisi properti lain dikenal sebagai subclass (kelas turunan, kelas anak) dan kelas yang propertinya diwarisi dikenal sebagai superclass (kelas dasar, kelas induk).
